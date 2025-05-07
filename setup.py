@@ -6,7 +6,7 @@ setup(
     description="A Python Linear Programming Solver with Xpress-like syntax",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Your Name",
+    author="Nitesh Jaiswal",
     author_email="nitesh.singh1423.nl@gmail.com",
     packages=find_packages(),
     install_requires=["numpy>=1.20.0"],
